@@ -1,0 +1,17 @@
+[{
+    "labels": {
+        "job": "imap_exporter_my_folder_1",
+        "__metrics_path__": "/my_folder_1"
+    },
+    "targets": [
+        "localhost:8888"
+    ]
+}, {
+    "labels": {
+        "job": "imap_exporter_my_folder_1",
+        "__metrics_path__": "/my_folder_2"
+    },
+    "targets": [
+        "localhost:8888"
+    ]
+}]
